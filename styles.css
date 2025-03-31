@@ -65,3 +65,19 @@ p {
   text-align: center;
   line-height: 130%;
 }
+
+th {
+  background-color: green;
+  
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid black;
+  float: left;
+  margin: 10px;
+}
+
+td {
+  border: 2px solid black;
+}
